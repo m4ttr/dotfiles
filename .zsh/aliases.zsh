@@ -1,4 +1,3 @@
-
 case $(uname) in
     Darwin)
         # Add all MacOSX alias here

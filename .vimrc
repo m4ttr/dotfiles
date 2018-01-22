@@ -1,4 +1,5 @@
 " Pathogen setup
+source ~/.vim/pathogen/autoload/pathogen.vim
 execute pathogen#infect()
 
 " Enable filetype plugins
